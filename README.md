@@ -1,4 +1,4 @@
-# multiples-lesson
+# multiples-lesson test
 Fun maths lesson to find multiples of 3 and 5 and print Fizz or Buzz or FizzBuzz or number.
 
 Rule1: Print FizzBuzz, if a number is multiple of both 3 and 5. Rule2: Print Fizz,if Rule1 not satisfied and if the
